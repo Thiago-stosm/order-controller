@@ -26,8 +26,6 @@ O projeto explora conceitos essenciais da programação orientada a objetos, com
 
 ## Estrutura do Projeto
 
-Sugestão de organização de pastas:
-
 ```
 C:.
 ├───.idea
